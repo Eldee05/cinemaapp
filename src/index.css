@@ -37,7 +37,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   height: 7.2rem;
-  padding: 0 3.2rem;
+  padding: 1rem 2rem;
   background-color: var(--color-primary);
   border-radius: 0.9rem;
 }
@@ -98,6 +98,7 @@ body {
   font-size: 1.8rem;
   border-radius: 0.7rem;
   width: 40rem;
+  margin: 1rem;
   transition: all 0.3s;
   color: var(--color-text);
 
